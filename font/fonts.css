@@ -1,0 +1,43 @@
+
+@font-face {
+	font-family: 'Conv_Rubik-Black';
+	src: url('fonts/Rubik-Black.eot');
+	src: local('☺'), url('Rubik-Black.woff') format('woff'), url('fonts/Rubik-Black.ttf') format('truetype'), url('fonts/Rubik-Black.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_Rubik-Bold';
+	src: url('fonts/Rubik-Bold.eot');
+	src: local('☺'), url('Rubik-Bold.woff') format('woff'), url('fonts/Rubik-Bold.ttf') format('truetype'), url('fonts/Rubik-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_Rubik-Light';
+	src: url('fonts/Rubik-Light.eot');
+	src: local('☺'), url('Rubik-Light.woff') format('woff'), url('fonts/Rubik-Light.ttf') format('truetype'), url('fonts/Rubik-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Rubik-Medium';
+	src: url('fonts/Rubik-Medium.eot');
+	src: local('☺'), url('Rubik-Medium.woff') format('woff'), url('fonts/Rubik-Medium.ttf') format('truetype'), url('fonts/Rubik-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Rubik-Regular';
+	src: url('fonts/Rubik-Regular.eot');
+	src: local('☺'), url('Rubik-Regular.woff') format('woff'), url('fonts/Rubik-Regular.ttf') format('truetype'), url('fonts/Rubik-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
